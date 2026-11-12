@@ -7,7 +7,7 @@ usado para instalar e atualizar os computadores do escritório.
 ## Baixar a última versão
 
 - **Windows:** [Acao-Sistema-Contabil-Windows.zip](https://github.com/rafaelvannis/acao-sistema-contabil-programa/releases/latest/download/Acao-Sistema-Contabil-Windows.zip)
-- **Mac:** [Acao-Sistema-Contabil-Mac.zip](https://github.com/rafaelvannis/acao-sistema-contabil-programa/releases/latest/download/Acao-Sistema-Contabil-Mac.zip)
+- **Mac:** em breve.
 
 ## Instalar (uma vez em cada computador)
 
@@ -15,8 +15,6 @@ usado para instalar e atualizar os computadores do escritório.
 Se aparecer "O Windows protegeu o computador": *Mais informações* → *Executar assim mesmo*.
 O programa oferece **Instalar neste computador** (cria o atalho na Área de Trabalho).
 
-**Mac:** extraia o .zip e arraste *Ação - Sistema Contábil* para **Aplicativos**.
-Na primeira vez: botão direito no app → *Abrir* → *Abrir*.
 
 ## Atualizações
 
